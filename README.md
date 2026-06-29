@@ -56,6 +56,7 @@ Built with production-grade engineering principles: clean architecture, SOLID de
 ---
 
 ## 📁 Folder Structure
+Check the Folder Structure:
 
 ```
 VisionPulseDashboard/
