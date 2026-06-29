@@ -103,7 +103,7 @@ VisionPulseDashboard/
 ### Prerequisites
 
 - Python 3.12+
-- A webcam (optional — video files work without one)
+- A webcam (optional - video files work without one)
 - Internet connection (for initial YOLOv8 weight download)
 
 ### Setup
