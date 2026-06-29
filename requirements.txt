@@ -1,0 +1,8 @@
+# VisionPulse Dashboard — Dependencies
+# Install with: pip install -r requirements.txt
+
+PySide6>=6.7.0,<7.0
+opencv-python>=4.9.0
+ultralytics>=8.2.0
+pyqtgraph>=0.13.7
+numpy>=1.26.0

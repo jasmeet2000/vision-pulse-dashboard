@@ -1,0 +1,312 @@
+/*
+ * VisionPulse Dashboard — Dark Theme Stylesheet
+ *
+ * Palette:
+ *   Background:    #0d1117  (deep navy)
+ *   Surface:       #161b22  (card backgrounds)
+ *   Surface-alt:   #1c2333  (elevated surfaces)
+ *   Border:        #30363d  (subtle dividers)
+ *   Primary:       #58a6ff  (accent blue)
+ *   Primary-hover: #79c0ff
+ *   Danger:        #f85149  (stop / error)
+ *   Success:       #3fb950  (active / online)
+ *   Text:          #e6edf3  (primary text)
+ *   Text-muted:    #8b949e  (secondary text)
+ *   Slider-groove: #21262d
+ */
+
+/* ================================================================
+   GLOBAL
+   ================================================================ */
+
+QMainWindow, QWidget {
+    background-color: #0d1117;
+    color: #e6edf3;
+    font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    font-size: 10pt;
+}
+
+/* ================================================================
+   BUTTONS
+   ================================================================ */
+
+QPushButton {
+    background-color: #21262d;
+    color: #e6edf3;
+    border: 1px solid #30363d;
+    border-radius: 8px;
+    padding: 10px 18px;
+    font-weight: 600;
+    font-size: 10pt;
+    min-height: 20px;
+}
+
+QPushButton:hover {
+    background-color: #30363d;
+    border-color: #58a6ff;
+    color: #ffffff;
+}
+
+QPushButton:pressed {
+    background-color: #161b22;
+    border-color: #58a6ff;
+}
+
+QPushButton:disabled {
+    background-color: #161b22;
+    color: #484f58;
+    border-color: #21262d;
+}
+
+/* Start / Webcam button */
+QPushButton#btn_start_webcam {
+    background-color: #238636;
+    border-color: #2ea043;
+    color: #ffffff;
+}
+
+QPushButton#btn_start_webcam:hover {
+    background-color: #2ea043;
+    border-color: #3fb950;
+}
+
+QPushButton#btn_start_webcam:disabled {
+    background-color: #1a2a1a;
+    color: #484f58;
+    border-color: #21262d;
+}
+
+/* Load Video button */
+QPushButton#btn_load_video {
+    background-color: #1f3a5f;
+    border-color: #58a6ff;
+    color: #79c0ff;
+}
+
+QPushButton#btn_load_video:hover {
+    background-color: #264d7a;
+    border-color: #79c0ff;
+    color: #ffffff;
+}
+
+QPushButton#btn_load_video:disabled {
+    background-color: #161b22;
+    color: #484f58;
+    border-color: #21262d;
+}
+
+/* Stop button */
+QPushButton#btn_stop {
+    background-color: #5a1e1e;
+    border-color: #f85149;
+    color: #f85149;
+}
+
+QPushButton#btn_stop:hover {
+    background-color: #7a2828;
+    border-color: #ff7b72;
+    color: #ff7b72;
+}
+
+QPushButton#btn_stop:disabled {
+    background-color: #161b22;
+    color: #484f58;
+    border-color: #21262d;
+}
+
+/* Placeholder / future feature buttons */
+QPushButton#btn_placeholder {
+    background-color: #161b22;
+    color: #484f58;
+    border: 1px dashed #30363d;
+    border-radius: 8px;
+}
+
+/* ================================================================
+   LABELS
+   ================================================================ */
+
+QLabel {
+    color: #e6edf3;
+    background-color: transparent;
+}
+
+QLabel#lbl_section_title {
+    font-size: 13pt;
+    font-weight: 700;
+    color: #58a6ff;
+    padding: 4px 0px;
+}
+
+QLabel#lbl_panel_title {
+    font-size: 12pt;
+    font-weight: 700;
+    color: #e6edf3;
+    padding: 2px 0px;
+}
+
+QLabel#lbl_stat_value {
+    font-size: 18pt;
+    font-weight: 700;
+    color: #58a6ff;
+}
+
+QLabel#lbl_stat_label {
+    font-size: 9pt;
+    font-weight: 400;
+    color: #8b949e;
+}
+
+QLabel#lbl_confidence_value {
+    font-size: 11pt;
+    font-weight: 600;
+    color: #3fb950;
+}
+
+QLabel#lbl_no_video {
+    font-size: 16pt;
+    font-weight: 600;
+    color: #484f58;
+}
+
+/* ================================================================
+   SLIDERS
+   ================================================================ */
+
+QSlider::groove:horizontal {
+    background: #21262d;
+    height: 8px;
+    border-radius: 4px;
+}
+
+QSlider::handle:horizontal {
+    background: #58a6ff;
+    width: 18px;
+    height: 18px;
+    margin: -5px 0;
+    border-radius: 9px;
+    border: 2px solid #79c0ff;
+}
+
+QSlider::handle:horizontal:hover {
+    background: #79c0ff;
+    border-color: #a5d6ff;
+}
+
+QSlider::sub-page:horizontal {
+    background: qlineargradient(x1:0, y1:0, x2:1, y2:0,
+        stop:0 #1f6feb, stop:1 #58a6ff);
+    border-radius: 4px;
+}
+
+/* ================================================================
+   PANELS / FRAMES
+   ================================================================ */
+
+QFrame#panel_left,
+QFrame#panel_right {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+}
+
+QFrame#panel_center {
+    background-color: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+}
+
+QFrame#stat_card {
+    background-color: #1c2333;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+/* ================================================================
+   SEPARATORS
+   ================================================================ */
+
+QFrame#separator {
+    background-color: #30363d;
+    max-height: 1px;
+    min-height: 1px;
+}
+
+/* ================================================================
+   SCROLL AREAS
+   ================================================================ */
+
+QScrollArea {
+    background-color: transparent;
+    border: none;
+}
+
+QScrollBar:vertical {
+    background: #161b22;
+    width: 8px;
+    border-radius: 4px;
+}
+
+QScrollBar::handle:vertical {
+    background: #30363d;
+    border-radius: 4px;
+    min-height: 30px;
+}
+
+QScrollBar::handle:vertical:hover {
+    background: #484f58;
+}
+
+QScrollBar::add-line:vertical,
+QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+
+/* ================================================================
+   SPLITTER
+   ================================================================ */
+
+QSplitter::handle {
+    background-color: #30363d;
+    width: 2px;
+}
+
+QSplitter::handle:hover {
+    background-color: #58a6ff;
+}
+
+/* ================================================================
+   MESSAGE BOX
+   ================================================================ */
+
+QMessageBox {
+    background-color: #161b22;
+    color: #e6edf3;
+}
+
+QMessageBox QPushButton {
+    min-width: 80px;
+}
+
+/* ================================================================
+   FILE DIALOG (basic styling)
+   ================================================================ */
+
+QFileDialog {
+    background-color: #161b22;
+    color: #e6edf3;
+}
+
+/* ================================================================
+   TOOLTIPS
+   ================================================================ */
+
+QToolTip {
+    background-color: #1c2333;
+    color: #e6edf3;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 9pt;
+}

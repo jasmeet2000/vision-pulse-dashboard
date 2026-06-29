@@ -1,0 +1,779 @@
+2026-06-29 13:24:38 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:24:38 | INFO     | __main__                       | ============================================================
+2026-06-29 13:24:38 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:24:38 | INFO     | __main__                       | ============================================================
+2026-06-29 13:24:38 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:25:40 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:25:40 | INFO     | __main__                       | ============================================================
+2026-06-29 13:25:40 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:25:40 | INFO     | __main__                       | ============================================================
+2026-06-29 13:25:40 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:25:44 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:25:44 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:25:52 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:25:52 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:25:52 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:25:52 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:25:52 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:25:52 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:25:52 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:25:55 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:25:55 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:31:58 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:31:58 | INFO     | __main__                       | ============================================================
+2026-06-29 13:31:58 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:31:58 | INFO     | __main__                       | ============================================================
+2026-06-29 13:31:58 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:32:00 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:32:00 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:32:04 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:32:04 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:32:04 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:32:04 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:32:04 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:32:04 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:32:05 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:32:05 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:32:05 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:34:13 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:34:13 | INFO     | __main__                       | ============================================================
+2026-06-29 13:34:13 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:34:13 | INFO     | __main__                       | ============================================================
+2026-06-29 13:34:13 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:34:14 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:34:14 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:34:18 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:34:18 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:34:18 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:34:18 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:34:18 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:34:18 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:34:18 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:34:18 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:34:18 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:34:21 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:34:21 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:34:21 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:34:23 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:34:23 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:34:23 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:34:23 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:34:23 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:34:27 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:34:27 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:34:27 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:34:27 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:34:27 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:34:27 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:34:27 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:34:27 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:34:30 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:34:30 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:34:30 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:34:30 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:34:30 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:34:30 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:34:30 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:34:30 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:34:35 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:34:35 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:34:38 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:34:38 | INFO     | __main__                       | ============================================================
+2026-06-29 13:34:38 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:34:38 | INFO     | __main__                       | ============================================================
+2026-06-29 13:34:38 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:34:39 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:34:39 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:34:42 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:34:42 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:34:42 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:34:42 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:34:42 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:34:42 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:34:42 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:34:43 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:34:43 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:34:44 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:34:44 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:34:44 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:34:44 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:34:44 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:34:44 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:34:44 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:34:44 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:36:30 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 13:36:30 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 13:36:30 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:36:30 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 13:37:19 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:37:19 | INFO     | workers.video_worker           | Worker stop requested
+2026-06-29 13:37:19 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:37:19 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:37:19 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:37:19 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:37:19 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:37:25 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:37:25 | INFO     | __main__                       | ============================================================
+2026-06-29 13:37:25 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:37:25 | INFO     | __main__                       | ============================================================
+2026-06-29 13:37:25 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:37:26 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:37:27 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:37:30 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:37:30 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:37:30 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:37:30 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:37:31 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:37:31 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:37:31 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:37:31 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:37:31 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:37:39 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:37:39 | INFO     | __main__                       | ============================================================
+2026-06-29 13:37:39 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:37:39 | INFO     | __main__                       | ============================================================
+2026-06-29 13:37:39 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:37:40 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:37:40 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:37:42 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:37:42 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:37:42 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:37:42 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:37:42 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:37:42 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:37:43 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:37:43 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:37:43 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:37:44 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:37:44 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:37:44 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:37:45 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:37:45 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:37:45 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:37:45 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:37:45 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:38:24 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 13:38:24 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 13:38:24 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:38:24 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 13:39:32 | INFO     | services.video_service         | Video playback ended: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:39:32 | INFO     | workers.video_worker           | Video file playback complete
+2026-06-29 13:39:32 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:39:32 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:39:32 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:39:32 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:39:46 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:39:46 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:40:26 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:40:26 | INFO     | __main__                       | ============================================================
+2026-06-29 13:40:26 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:40:26 | INFO     | __main__                       | ============================================================
+2026-06-29 13:40:26 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:40:27 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:40:28 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:40:31 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:40:31 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:40:31 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:40:31 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:40:31 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:40:31 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:40:31 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:40:31 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:40:31 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:40:57 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:40:57 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:40:57 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:40:57 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:40:57 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:40:57 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:40:57 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:40:57 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:41:09 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:41:09 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:41:09 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:41:09 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:41:09 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:41:09 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:41:09 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:41:09 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:41:11 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:41:11 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:41:29 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:41:29 | INFO     | __main__                       | ============================================================
+2026-06-29 13:41:29 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:41:29 | INFO     | __main__                       | ============================================================
+2026-06-29 13:41:29 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:41:29 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:41:30 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:41:32 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:41:32 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:41:32 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:41:32 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:41:32 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:41:32 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:41:33 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:41:33 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:41:33 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:41:46 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:41:46 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:42:01 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:42:01 | INFO     | __main__                       | ============================================================
+2026-06-29 13:42:01 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:42:01 | INFO     | __main__                       | ============================================================
+2026-06-29 13:42:01 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:42:04 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:42:04 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:42:13 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:42:13 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:42:13 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:42:13 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:42:13 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:42:13 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:42:14 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:42:15 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:42:15 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:42:17 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:42:17 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:42:17 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:42:17 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:42:17 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:42:17 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:42:17 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:42:17 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:42:27 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 13:42:27 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 13:42:27 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:42:27 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 13:43:32 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:43:32 | INFO     | workers.video_worker           | Worker stop requested
+2026-06-29 13:43:32 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:43:32 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:43:32 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:43:32 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:43:32 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:46:25 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:46:25 | INFO     | __main__                       | ============================================================
+2026-06-29 13:46:25 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:46:25 | INFO     | __main__                       | ============================================================
+2026-06-29 13:46:25 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:46:26 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:46:27 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:46:28 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:46:28 | INFO     | __main__                       | ============================================================
+2026-06-29 13:46:28 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:46:28 | INFO     | __main__                       | ============================================================
+2026-06-29 13:46:28 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:46:29 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:46:29 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:46:30 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:46:30 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:46:30 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:46:30 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:46:30 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:46:30 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:46:30 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:46:31 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:46:31 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:46:32 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:46:32 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:46:32 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:46:32 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:46:32 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:46:32 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:46:33 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:46:33 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:46:33 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:46:44 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:46:44 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:46:44 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:46:44 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:46:44 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:46:44 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:46:44 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:46:44 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:46:53 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 13:46:53 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 13:46:53 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:46:53 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 13:47:14 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:47:14 | INFO     | workers.video_worker           | Worker stop requested
+2026-06-29 13:47:14 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 13:47:14 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:47:14 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:47:14 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:47:14 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:48:39 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:48:40 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:48:42 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:48:43 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:48:43 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:48:43 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:48:43 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:48:43 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:48:43 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:48:44 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:48:44 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:48:44 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:49:18 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:49:19 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:49:23 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:49:23 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:49:23 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:49:23 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:49:23 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:49:23 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:49:23 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:49:24 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:49:24 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:49:24 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:49:59 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:49:59 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:50:01 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:50:02 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:50:02 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:50:02 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:50:02 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:50:02 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:50:02 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:50:02 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:50:02 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:50:02 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:50:24 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:50:24 | INFO     | __main__                       | ============================================================
+2026-06-29 13:50:24 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:50:24 | INFO     | __main__                       | ============================================================
+2026-06-29 13:50:24 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:50:25 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:50:25 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:50:27 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:50:27 | INFO     | __main__                       | ============================================================
+2026-06-29 13:50:27 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:50:27 | INFO     | __main__                       | ============================================================
+2026-06-29 13:50:27 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:50:28 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:50:28 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:50:28 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:50:29 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:50:29 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:50:29 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:50:29 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:50:29 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:50:29 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:50:29 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:50:29 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:50:31 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:50:31 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:50:31 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:50:31 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:50:31 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:50:31 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:50:31 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:50:32 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:50:32 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:50:36 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:50:36 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:50:36 | INFO     | services.camera_service        | Opening camera device 0 …
+2026-06-29 13:50:36 | ERROR    | services.camera_service        | Failed to open camera device 0
+2026-06-29 13:50:36 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:50:36 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:50:36 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:50:36 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:50:40 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:50:40 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:53:43 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:53:43 | INFO     | __main__                       | ============================================================
+2026-06-29 13:53:43 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:53:43 | INFO     | __main__                       | ============================================================
+2026-06-29 13:53:43 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:53:44 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:53:44 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:53:47 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:53:47 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:53:47 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:53:47 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:53:47 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:53:47 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:53:48 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:53:48 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:53:48 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:53:51 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:53:51 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:53:51 | INFO     | services.camera_service        | Opening camera device 0 (CAP_DSHOW) …
+2026-06-29 13:53:51 | WARNING  | services.camera_service        | CAP_DSHOW failed. Falling back to default backend…
+2026-06-29 13:53:52 | ERROR    | services.camera_service        | Failed to open camera device 0 with any backend.
+2026-06-29 13:53:52 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:53:52 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:53:52 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:53:52 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:54:40 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:54:40 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 13:56:05 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:56:05 | INFO     | __main__                       | ============================================================
+2026-06-29 13:56:05 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:56:05 | INFO     | __main__                       | ============================================================
+2026-06-29 13:56:05 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:56:06 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:56:06 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:56:09 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:56:09 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:56:09 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:56:09 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:56:09 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:56:09 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:56:10 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:56:10 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:56:10 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:56:13 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 13:56:13 | INFO     | __main__                       | ============================================================
+2026-06-29 13:56:13 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 13:56:13 | INFO     | __main__                       | ============================================================
+2026-06-29 13:56:13 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 13:56:14 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 13:56:14 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 13:56:16 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 13:56:16 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:56:16 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 13:56:16 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 13:56:16 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 13:56:16 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 13:56:17 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 13:56:17 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 13:56:17 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 13:56:19 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:56:19 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:56:19 | INFO     | services.camera_service        | Trying camera device 0 (CAP_DSHOW) …
+2026-06-29 13:56:19 | WARNING  | services.camera_service        | Device 0: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:19 | INFO     | services.camera_service        | Trying camera device 1 (CAP_DSHOW) …
+2026-06-29 13:56:19 | WARNING  | services.camera_service        | Device 1: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:19 | INFO     | services.camera_service        | Trying camera device 2 (CAP_DSHOW) …
+2026-06-29 13:56:19 | WARNING  | services.camera_service        | Device 2: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:20 | INFO     | services.camera_service        | Trying camera device 3 (CAP_DSHOW) …
+2026-06-29 13:56:20 | WARNING  | services.camera_service        | Device 3: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:20 | INFO     | services.camera_service        | Trying camera device 4 (CAP_DSHOW) …
+2026-06-29 13:56:20 | WARNING  | services.camera_service        | Device 4: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:20 | ERROR    | services.camera_service        | Failed to open ANY camera device from [0, 1, 2, 3, 4]
+2026-06-29 13:56:20 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:56:20 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:56:20 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:56:20 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:56:23 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 13:56:23 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 13:56:23 | INFO     | services.camera_service        | Trying camera device 0 (CAP_DSHOW) …
+2026-06-29 13:56:23 | WARNING  | services.camera_service        | Device 0: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:23 | INFO     | services.camera_service        | Trying camera device 1 (CAP_DSHOW) …
+2026-06-29 13:56:23 | WARNING  | services.camera_service        | Device 1: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:23 | INFO     | services.camera_service        | Trying camera device 2 (CAP_DSHOW) …
+2026-06-29 13:56:23 | WARNING  | services.camera_service        | Device 2: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:23 | INFO     | services.camera_service        | Trying camera device 3 (CAP_DSHOW) …
+2026-06-29 13:56:23 | WARNING  | services.camera_service        | Device 3: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:23 | INFO     | services.camera_service        | Trying camera device 4 (CAP_DSHOW) …
+2026-06-29 13:56:23 | WARNING  | services.camera_service        | Device 4: CAP_DSHOW failed. Trying default backend…
+2026-06-29 13:56:23 | ERROR    | services.camera_service        | Failed to open ANY camera device from [0, 1, 2, 3, 4]
+2026-06-29 13:56:23 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:56:23 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 13:56:23 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:56:23 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:56:31 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 13:56:31 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 13:56:31 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 13:56:31 | INFO     | services.video_service         | Video opened — 1811 frames, 30.0 FPS, 3840×2160
+2026-06-29 13:59:35 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 13:59:35 | INFO     | workers.video_worker           | Worker stop requested
+2026-06-29 13:59:35 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 13:59:35 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 13:59:35 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:59:35 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 13:59:35 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 14:00:17 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 14:00:19 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 14:00:19 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:00:19 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 14:00:19 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 14:00:20 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:00:20 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 14:00:20 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 14:00:20 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 14:02:24 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 14:02:24 | INFO     | __main__                       | ============================================================
+2026-06-29 14:02:24 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 14:02:24 | INFO     | __main__                       | ============================================================
+2026-06-29 14:02:24 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 14:02:25 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 14:02:25 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 14:02:28 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 14:02:28 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:02:28 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 14:02:28 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 14:02:28 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:02:28 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 14:02:28 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 14:02:28 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 14:02:28 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 14:02:35 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 14:02:35 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:02:35 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 14:02:35 | INFO     | services.video_service         | Video opened — 1811 frames, 30.0 FPS, 3840×2160
+2026-06-29 14:02:35 | ERROR    | workers.video_worker           | Unexpected error in worker thread
+Traceback (most recent call last):
+  File "C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\workers\video_worker.py", line 140, in run
+    self._processing_loop()
+  File "C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\workers\video_worker.py", line 226, in _processing_loop
+    if not ok:
+UnboundLocalError: local variable 'ok' referenced before assignment
+2026-06-29 14:02:35 | ERROR    | ui.dashboard                   | Worker error: Unexpected error: local variable 'ok' referenced before assignment
+2026-06-29 14:02:35 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 14:02:35 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:02:35 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:02:35 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:02:46 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 14:02:46 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:02:46 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:02:46 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 14:02:46 | ERROR    | workers.video_worker           | Unexpected error in worker thread
+Traceback (most recent call last):
+  File "C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\workers\video_worker.py", line 140, in run
+    self._processing_loop()
+  File "C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\workers\video_worker.py", line 226, in _processing_loop
+    if not ok:
+UnboundLocalError: local variable 'ok' referenced before assignment
+2026-06-29 14:02:46 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:02:46 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:02:46 | ERROR    | ui.dashboard                   | Worker error: Unexpected error: local variable 'ok' referenced before assignment
+2026-06-29 14:02:46 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:02:46 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:03:33 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 14:03:33 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:03:33 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:03:33 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 14:03:33 | ERROR    | workers.video_worker           | Unexpected error in worker thread
+Traceback (most recent call last):
+  File "C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\workers\video_worker.py", line 140, in run
+    self._processing_loop()
+  File "C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\workers\video_worker.py", line 226, in _processing_loop
+    break
+UnboundLocalError: local variable 'ok' referenced before assignment
+2026-06-29 14:03:33 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:03:33 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:03:33 | ERROR    | ui.dashboard                   | Worker error: Unexpected error: local variable 'ok' referenced before assignment
+2026-06-29 14:03:33 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:03:33 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:03:34 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 14:03:34 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 14:03:40 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 14:03:40 | INFO     | __main__                       | ============================================================
+2026-06-29 14:03:40 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 14:03:40 | INFO     | __main__                       | ============================================================
+2026-06-29 14:03:40 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 14:03:41 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 14:03:41 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 14:03:41 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 14:03:41 | INFO     | __main__                       | ============================================================
+2026-06-29 14:03:41 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 14:03:41 | INFO     | __main__                       | ============================================================
+2026-06-29 14:03:41 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 14:03:43 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 14:03:43 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 14:03:46 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 14:03:46 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:03:46 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 14:03:46 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 14:03:46 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:03:46 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 14:03:46 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 14:03:47 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 14:03:47 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 14:03:47 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 14:03:47 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:03:47 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 14:03:47 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 14:03:47 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:03:47 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 14:03:48 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 14:03:48 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 14:03:48 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 14:03:54 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 14:03:54 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:03:54 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 14:03:54 | INFO     | services.video_service         | Video opened — 1811 frames, 30.0 FPS, 3840×2160
+2026-06-29 14:04:16 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 14:04:16 | INFO     | workers.video_worker           | Worker stop requested
+2026-06-29 14:04:16 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\19781984-uhd_3840_2160_30fps.mp4
+2026-06-29 14:04:16 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:04:16 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:04:16 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:04:16 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 14:04:20 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 14:04:20 | INFO     | __main__                       | ============================================================
+2026-06-29 14:04:20 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 14:04:20 | INFO     | __main__                       | ============================================================
+2026-06-29 14:04:20 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 14:04:21 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 14:04:21 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 14:04:23 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 14:04:23 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:04:23 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 14:04:23 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 14:04:23 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:04:23 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 14:04:24 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 14:04:24 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 14:04:24 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 14:04:28 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 14:04:28 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:04:28 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:04:28 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 14:04:50 | INFO     | services.video_service         | Video playback ended: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:04:50 | INFO     | workers.video_worker           | Video file playback complete
+2026-06-29 14:04:50 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:04:50 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:04:50 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:04:50 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:05:11 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 14:05:11 | INFO     | __main__                       | Application exited with code 0
+2026-06-29 14:06:01 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 14:06:01 | INFO     | __main__                       | ============================================================
+2026-06-29 14:06:01 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 14:06:01 | INFO     | __main__                       | ============================================================
+2026-06-29 14:06:01 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 14:06:02 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 14:06:02 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 14:06:03 | DEBUG    | utils.logger                   | Logging initialized — file: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\logs\visionpulse.log, level: DEBUG
+2026-06-29 14:06:03 | INFO     | __main__                       | ============================================================
+2026-06-29 14:06:03 | INFO     | __main__                       | VisionPulse Dashboard — Starting
+2026-06-29 14:06:03 | INFO     | __main__                       | ============================================================
+2026-06-29 14:06:03 | INFO     | __main__                       | Stylesheet loaded: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\assets\styles\dark_theme.qss
+2026-06-29 14:06:04 | INFO     | ui.dashboard                   | Dashboard window initialized
+2026-06-29 14:06:04 | INFO     | __main__                       | Application window shown — entering event loop
+2026-06-29 14:06:06 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 14:06:06 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:06:06 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 14:06:06 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 14:06:06 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:06:06 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 14:06:06 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 14:06:07 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 14:06:07 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 14:06:08 | DEBUG    | matplotlib                     | matplotlib data path: C:\Users\jasme\OneDrive\Documents\VisionPulseDashboard\venv\lib\site-packages\matplotlib\mpl-data
+2026-06-29 14:06:08 | DEBUG    | matplotlib                     | CONFIGDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:06:08 | DEBUG    | matplotlib                     | interactive is False
+2026-06-29 14:06:08 | DEBUG    | matplotlib                     | platform is win32
+2026-06-29 14:06:08 | DEBUG    | matplotlib                     | CACHEDIR=C:\Users\jasme\.matplotlib
+2026-06-29 14:06:08 | DEBUG    | matplotlib.font_manager        | Using fontManager instance from C:\Users\jasme\.matplotlib\fontlist-v390.json
+2026-06-29 14:06:08 | INFO     | models.detector                | Loading YOLO model: yolov8n.pt
+2026-06-29 14:06:09 | INFO     | models.detector                | Model loaded successfully — device: auto
+2026-06-29 14:06:09 | INFO     | ui.dashboard                   | Model loaded: YOLOv8 (yolov8n.pt)
+2026-06-29 14:06:11 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 14:06:11 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 14:06:11 | INFO     | services.camera_service        | Trying camera device 0 (CAP_DSHOW) …
+2026-06-29 14:06:11 | WARNING  | services.camera_service        | Device 0: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:12 | INFO     | services.camera_service        | Trying camera device 1 (CAP_DSHOW) …
+2026-06-29 14:06:12 | WARNING  | services.camera_service        | Device 1: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:12 | INFO     | services.camera_service        | Trying camera device 2 (CAP_DSHOW) …
+2026-06-29 14:06:12 | WARNING  | services.camera_service        | Device 2: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:12 | INFO     | services.camera_service        | Trying camera device 3 (CAP_DSHOW) …
+2026-06-29 14:06:12 | WARNING  | services.camera_service        | Device 3: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:12 | INFO     | services.camera_service        | Trying camera device 4 (CAP_DSHOW) …
+2026-06-29 14:06:12 | WARNING  | services.camera_service        | Device 4: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:12 | ERROR    | services.camera_service        | Failed to open ANY camera device from [0, 1, 2, 3, 4]
+2026-06-29 14:06:12 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:06:12 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 14:06:12 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:12 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:18 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 14:06:18 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:06:18 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:06:18 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 14:06:40 | INFO     | services.video_service         | Video playback ended: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:06:40 | INFO     | workers.video_worker           | Video file playback complete
+2026-06-29 14:06:40 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:06:40 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:06:40 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:40 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:42 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 14:06:42 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 14:06:42 | INFO     | services.camera_service        | Trying camera device 0 (CAP_DSHOW) …
+2026-06-29 14:06:43 | WARNING  | services.camera_service        | Device 0: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:43 | INFO     | services.camera_service        | Trying camera device 1 (CAP_DSHOW) …
+2026-06-29 14:06:43 | WARNING  | services.camera_service        | Device 1: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:43 | INFO     | services.camera_service        | Trying camera device 2 (CAP_DSHOW) …
+2026-06-29 14:06:43 | WARNING  | services.camera_service        | Device 2: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:43 | INFO     | services.camera_service        | Trying camera device 3 (CAP_DSHOW) …
+2026-06-29 14:06:43 | WARNING  | services.camera_service        | Device 3: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:43 | INFO     | services.camera_service        | Trying camera device 4 (CAP_DSHOW) …
+2026-06-29 14:06:43 | WARNING  | services.camera_service        | Device 4: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:43 | ERROR    | services.camera_service        | Failed to open ANY camera device from [0, 1, 2, 3, 4]
+2026-06-29 14:06:43 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:06:43 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 14:06:43 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:43 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:48 | INFO     | ui.dashboard                   | Starting webcam stream
+2026-06-29 14:06:48 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.CAMERA
+2026-06-29 14:06:48 | INFO     | services.camera_service        | Trying camera device 0 (CAP_DSHOW) …
+2026-06-29 14:06:48 | WARNING  | services.camera_service        | Device 0: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:48 | INFO     | services.camera_service        | Trying camera device 1 (CAP_DSHOW) …
+2026-06-29 14:06:48 | WARNING  | services.camera_service        | Device 1: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:48 | INFO     | services.camera_service        | Trying camera device 2 (CAP_DSHOW) …
+2026-06-29 14:06:48 | WARNING  | services.camera_service        | Device 2: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:48 | INFO     | services.camera_service        | Trying camera device 3 (CAP_DSHOW) …
+2026-06-29 14:06:48 | WARNING  | services.camera_service        | Device 3: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:48 | INFO     | services.camera_service        | Trying camera device 4 (CAP_DSHOW) …
+2026-06-29 14:06:48 | WARNING  | services.camera_service        | Device 4: CAP_DSHOW failed. Trying default backend…
+2026-06-29 14:06:48 | ERROR    | services.camera_service        | Failed to open ANY camera device from [0, 1, 2, 3, 4]
+2026-06-29 14:06:48 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:06:48 | ERROR    | ui.dashboard                   | Worker error: Could not open webcam.
+
+Please check that a camera is connected and not in use by another application.
+2026-06-29 14:06:48 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:48 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:06:52 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 14:06:52 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:06:52 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:06:52 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 14:07:14 | INFO     | services.video_service         | Video playback ended: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:07:14 | INFO     | workers.video_worker           | Video file playback complete
+2026-06-29 14:07:14 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:07:14 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:07:14 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:07:14 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:07:27 | INFO     | ui.dashboard                   | Loading video: C:/Users/jasme/Downloads/188613-883402208.mp4
+2026-06-29 14:07:27 | INFO     | workers.video_worker           | Worker thread started — source: SourceType.FILE
+2026-06-29 14:07:27 | INFO     | services.video_service         | Opening video file: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:07:27 | INFO     | services.video_service         | Video opened — 660 frames, 24.0 FPS, 1920×1080
+2026-06-29 14:07:49 | INFO     | services.video_service         | Video playback ended: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:07:49 | INFO     | workers.video_worker           | Video file playback complete
+2026-06-29 14:07:49 | INFO     | services.video_service         | Video file released: C:\Users\jasme\Downloads\188613-883402208.mp4
+2026-06-29 14:07:49 | INFO     | workers.video_worker           | Worker thread finished
+2026-06-29 14:07:49 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:07:49 | INFO     | ui.dashboard                   | Worker finished
+2026-06-29 14:07:53 | INFO     | ui.dashboard                   | Application closing — shutting down worker
+2026-06-29 14:07:53 | INFO     | __main__                       | Application exited with code 0

@@ -1,0 +1,31 @@
+# Environments
+venv/
+env/
+.env
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# YOLOv8 / Ultralytics specific
+*.pt
+yolov8*.pt
+runs/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project specific debug/media
+debug_frame.jpg
+*.mp4
+*.avi
+*.mov
