@@ -4,7 +4,7 @@
 
 A professional **Computer Vision Monitoring Dashboard** that performs real-time object detection using **YOLOv8** with a fully responsive **PySide6** desktop interface.
 
-Built with production-grade engineering principles: clean architecture, SOLID design, multithreading, and extensibility.
+Built with production-grade engineering principles: clean architecture, SOLID design, multithreading and extensibility.
 
 ---
 
